@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.vercel/
+.grok/app-env.json
+.DS_Store
